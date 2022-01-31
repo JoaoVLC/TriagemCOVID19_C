@@ -25,6 +25,6 @@ O encaminhamento será feito para 3 alas, as de Risco Baixo, Risco Médio e Risc
 * Para o risco médio de 10 a 19 pontos;
 * para o risco alto de 20 ou mais pontos.
 
-Após preenchimento indicar para qual ala o paciente deverá se dirigir
+Após preenchimento será indicado para qual ala o paciente deverá se dirigir
 
-##### Para finalizar deve ser salvo em um arquivo com os dados do paciente e qual sua pontuação de sintomas para que seja realizada possíveis auditorias por parte da direção do hospital.
+##### Para finalizar será salvo em um arquivo com os dados do paciente e qual sua pontuação de sintomas para que seja realizada possíveis auditorias por parte da direção do hospital.
